@@ -1,5 +1,8 @@
 # first
 第一个仓库
+
+[[_TOC_]]
+
 # one
 
 ## two
